@@ -1,6 +1,6 @@
 # EX 2 -Virtualization-Addition-
-# Name: 
-# Reg No:212223240032
+# Name: M THEJESWARAN
+# Reg No: 212223240168
 
 ## Installing kali linux on virtual machine
 
